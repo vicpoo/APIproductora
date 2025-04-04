@@ -1,3 +1,4 @@
+// rabbitmq.go
 package rabbitmq
 
 import (
