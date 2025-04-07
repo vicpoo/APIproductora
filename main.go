@@ -50,6 +50,6 @@ func main() {
 
 	// Iniciar servidor
 	port := ":8004"
-	fmt.Printf("Server running on port %s\n", port)
+	fmt.Printf("Server running on port %s\n xd", port)
 	log.Fatal(http.ListenAndServe(port, router))
 }
